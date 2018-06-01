@@ -1,5 +1,5 @@
 # docker-cifs
-Docker cifs image to mount smb/samba shares 
+Docker cifs image to mount and sync smb/samba shares 
 
 This image could be used as base image to mount a smb share.
 
