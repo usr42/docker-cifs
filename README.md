@@ -1,4 +1,7 @@
 # docker-cifs
+
+[![Anchore Image Overview](https://anchore.io/service/badges/image/a863a225f794fce249090cdd01d527cc1321f3a13d11754d72ff9d8b6ab120e1)](https://anchore.io/image/dockerhub/usr42%2Fcifs%3Alatest)
+
 Docker cifs image to mount and sync smb/samba shares 
 
 This image could be used as base image to mount a smb share.
